@@ -7,7 +7,6 @@
             "./Drivers/STM32F1xx_HAL_Driver/Inc/",
             "./Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/",
             "./Drivers/CMSIS/Device/ST/STM32F1xx/Include/",
-            "./Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h",
             "./Drivers/CMSIS/Include/"
         ],
         "browse": {
@@ -27,7 +26,7 @@
             "STM32F103xE",
             "__IO"
         ],
-        "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+        "compilerPath": "/usr/bin/gcc",
         "cStandard": "c11",
         "cppStandard": "c++17",
         "intelliSenseMode": "gcc-x64"
